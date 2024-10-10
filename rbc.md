@@ -11,10 +11,10 @@ In economics, time series models allow us to capture trends, seasonality, and cy
    - Example: Real GDP growth in a stable economy can be modeled as a stationary process.
 
 2. **Autoregressive Models (AR)**: These models use previous values of the variable to predict future values.
-   $ y_t = \alpha + \beta y_{t-1} + \epsilon_t $
+   $y_t = \alpha + \beta y_{t-1} + \epsilon_t$
 
 3. **Moving Average Models (MA)**: In these models, the forecast depends on past forecast errors.
-   $ y_t = \mu + \epsilon_t + \theta \epsilon_{t-1} $
+   $y_t = \mu + \epsilon_t + \theta \epsilon_{t-1}$
 
 ## Applications in Economics:
 Time series models help economists to:
