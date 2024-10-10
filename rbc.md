@@ -1,5 +1,5 @@
 # Introduction to Time Series Analysis in Economics
-
+$\sqrt{3x-1}+(1+x)^2$
 ## What is Time Series Data?
 Time series data is a sequence of data points indexed in time order. Examples include GDP, inflation, and stock prices. It’s essential for understanding the dynamic behavior of economic variables.
 
